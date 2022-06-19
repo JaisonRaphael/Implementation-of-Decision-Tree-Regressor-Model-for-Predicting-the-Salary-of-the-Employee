@@ -53,20 +53,35 @@ dt.predict([[5,6]])
 
 ## Output:
 Data Head:
+
 ![1](https://user-images.githubusercontent.com/94165957/174469880-fc44a1a4-6914-42eb-af20-52b893824f4d.png)
+
 Data Info:
+
 ![2](https://user-images.githubusercontent.com/94165957/174469889-a86bb2b1-3cff-40c5-bf0e-aa1a04a05296.png)
+
 Data Isnull:
+
 ![3](https://user-images.githubusercontent.com/94165957/174469893-60d3f660-b096-4afc-96db-66789836f731.png)
+
 Data Head:
+
 ![4](https://user-images.githubusercontent.com/94165957/174469903-d869d65a-81fa-4935-9fed-4835868e82f8.png)
+
 dt.fit:
+
 ![5](https://user-images.githubusercontent.com/94165957/174469916-10466bae-590a-4564-ac9f-b4649102c3f6.png)
+
 MSE:
+
 ![6](https://user-images.githubusercontent.com/94165957/174469930-83f31c1f-5acc-4c44-b04a-be12ef48c4f7.png)
+
 RE2:
+
 ![7](https://user-images.githubusercontent.com/94165957/174469938-4196a1ba-c80b-497a-a5c3-cc34b30b4d1b.png)
+
 Predicted Value:
+
 ![8](https://user-images.githubusercontent.com/94165957/174469945-3ea9a5ef-2061-4396-a78e-79fdb18ead87.png)
 
 
